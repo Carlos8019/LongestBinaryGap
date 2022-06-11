@@ -1,0 +1,16 @@
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.exe
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.deps.json
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.runtimeconfig.json
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.runtimeconfig.dev.json
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.dll
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\ref\BinaryRepresentation.dll
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\bin\Debug\net5.0\BinaryRepresentation.pdb
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.csproj.AssemblyReference.cache
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.AssemblyInfoInputs.cache
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.AssemblyInfo.cs
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.csproj.CoreCompileInputs.cache
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.dll
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\ref\BinaryRepresentation.dll
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.pdb
+D:\Carlos\Repos\C#Console\BinaryRepresentation\BinaryRepresentation\obj\Debug\net5.0\BinaryRepresentation.genruntimeconfig.cache
